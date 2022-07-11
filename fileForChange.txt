@@ -1,7 +1,4 @@
 Change 1 then commit and push
-<<<<<<< HEAD
 Change 2 then commit and push..
 Change 3 Change 3.
-=======
 
->>>>>>> parent of e8c36c2 (second change)
