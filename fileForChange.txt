@@ -1,4 +1,12 @@
 Change 1 then commit and push
+
+
+
+
+
+
+
+#moved because of conflict when reverting
 Change 2 then commit and push..
 Change 3 Change 3.
 
