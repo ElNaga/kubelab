@@ -1,0 +1,14 @@
+Task 1:
+sudo docker build -t py-image-task1 .
+Build image
+Image has necessary modules installed in pip
+
+
+Task 2: 
+
+Build image
+Run image
+Open on port :5000 It's the default port of flask.
+
+Task 3:
+when docker-compose up => app is run at port 80 local

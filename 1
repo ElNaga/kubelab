@@ -1,0 +1,9 @@
+#!/bin/bash
+    
+FLATTIME=$(date "+%H%M")
+FLATTIME=${FLATTIME##0}
+echo $FLATTIME   
+if ! [[ $FLATTIME -gt 1130 ]] ; then
+	xdg-open https://stackoverflow.com
+fi
+exit
