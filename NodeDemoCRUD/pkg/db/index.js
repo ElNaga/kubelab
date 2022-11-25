@@ -5,6 +5,7 @@ const init = () => {
     const dsn = "mongodb://localhost:27017/"
 
     // sudo docker run -d -p 27017:27017 mongo
+    
     // const url = config.get('db').url
     // const password = config.get('db').password
     // const username = config.get('db').username
